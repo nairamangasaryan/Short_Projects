@@ -1,3 +1,4 @@
+# Description of print() function
 print()
 print("Good morning!")
 print('Good afternoon!')
